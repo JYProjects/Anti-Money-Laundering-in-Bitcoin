@@ -1,3 +1,3 @@
-Elliptic dataset analysis - Agosto Malizia filter=lfs diff=lfs merge=lfs -text
+Elliptic dataset analysis - Agosto Malizia.ipynb filter=lfs diff=lfs merge=lfs -text
 transactions_illecite_from_hashes_1.csv filter=lfs diff=lfs merge=lfs -text
 transactions_illecite_from_hashes_complete.csv filter=lfs diff=lfs merge=lfs -text
